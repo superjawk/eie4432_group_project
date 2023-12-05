@@ -54,5 +54,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "eie4432-group-project-server.vercel.app/api"
+  "proxy": "https://eie4432-group-project-server.vercel.app/api"
 }
